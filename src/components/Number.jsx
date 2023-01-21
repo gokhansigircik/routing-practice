@@ -28,4 +28,4 @@ const Number = (props) => {
     )
 }
 
-export default Number;
+export default Number
